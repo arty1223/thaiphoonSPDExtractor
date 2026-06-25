@@ -1,0 +1,53 @@
+Prepared by Thaiphoon Burner Super Blaster
+-------------------------------------------------------------
+                         MEMORY MODULE
+-------------------------------------------------------------
+Manufacturer              : A Force Manufacturing
+Series                    : Not determined
+Part Number               : 51264Y133I
+Serial Number             : 091127C9h
+JEDEC DIMM Label          : 4GB 2Rx8 PC3-10600U-9-10-B0
+Architecture              : DDR3 SDRAM UDIMM
+Speed Grade               : DDR3-1333H
+Capacity                  : 4 GB (16 components)
+Organization              : 512M x64 (2 ranks)
+Register Manufacturer     : N/A
+Register Model            : N/A
+Manufacturing Date        : June 18-22 / Week 25, 2012
+Manufacturing Location    : Unknown: 00h
+Revision / Raw Card       : 0000h / B0 (6 layers)
+-------------------------------------------------------------
+                        DRAM COMPONENTS
+-------------------------------------------------------------
+Manufacturer              : Hynix
+Part Number               : H5TQ2G83AFR-H9C
+Package                   : Standard Monolithic 78-ball FBGA
+Die Density / Count       : 2 Gb A-die / 1 die
+Composition               : 256Mb x8 (32Mb x8 x 8 banks)
+Input Clock Frequency     : 667 MHz (1,500 ns)
+Minimum Timing Delays     : 9-9-9-24-33
+Read Latencies Supported  : 9T, 8T, 7T, 6T
+Supply Voltage            : 1,50 V
+XMP Enthusiast            : Not programmed
+XMP Extreme               : Not programmed
+SPD Revision              : 1.0 / September 2007
+XMP Revision              : Undefined
+-------------------------------------------------------------
+                         RAW SPD DUMP
+-------------------------------------------------------------
+000  92 10 0B 02 03 19 00 09 03 52 01 08 0C 00 3C 00
+010  69 78 69 30 69 11 20 89 00 05 3C 3C 00 F0 83 05
+020  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+030  00 00 00 00 00 00 00 00 00 00 00 00 0F 11 01 01
+040  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+050  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+060  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+070  00 00 00 00 00 07 02 00 12 25 09 11 27 C9 2A F0
+080  35 31 32 36 34 59 31 33 33 49 00 00 00 00 48 59
+090  4E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0A0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0B0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0C0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0D0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0E0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0F0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 41 00
