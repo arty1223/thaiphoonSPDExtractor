@@ -6,3 +6,4 @@ bin
 thaiphoonDumps/*
 output*
 output.json
+__pycache__
