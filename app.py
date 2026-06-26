@@ -5,6 +5,7 @@ from os import mkdir, chdir, path, listdir, getcwd
 import sys
 import json
 
+missing_data = 0
 dimmTypes = [
     "CAMM2",
     "Mini-UDIMM",
